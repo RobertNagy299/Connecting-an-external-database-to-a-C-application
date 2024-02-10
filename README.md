@@ -3,15 +3,11 @@
  <!--### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-This is a C# program I wrote that was originally implemented in a Unity game, But before implementing it in Unity, I had written and tested it as a simple console application. The PHP scripts can be found in my "TDGame-Database" repository.
-
-<br>
-<br>
-The most important method is the "SendPost" method, which takes two arguments, the url (or file path) which locates the PHP script on a website (host machine), and the data that we want to give to the PHP script to perform actions with.
-<br>
-<br>
-
-The database ceased operation, due to the project members splitting up.
+This is a C# program I wrote that was originally implemented in a Unity game. But before implementing it in Unity, I had written and tested it as a simple console application. The PHP scripts can be found in my "TDGame-Database" repository.
+<br><br>
+The most important method is the "SendPost" method, which takes two arguments: the url (or file path) that locates the PHP script on a website (host machine) and the data that we want to give the PHP script to perform actions with.
+<br><br>
+The database ceased operation due to the project members splitting up.
 <br />
 
 
