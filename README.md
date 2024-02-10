@@ -3,7 +3,7 @@
  <!--### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)-->
 
 <h2>Description</h2>
-Project consists a simple C# program that was originally implemented in a Unity game, But before implementing it in Unity, I had written and tested it as a simple console application. The PHP scripts and their implementation can be found in my "TDGame-Database" repository.
+This is a C# program I wrote that was originally implemented in a Unity game, But before implementing it in Unity, I had written and tested it as a simple console application. The PHP scripts can be found in my "TDGame-Database" repository.
 
 The database ceased operation, due to the project members splitting up.
 <br />
